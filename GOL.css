@@ -2,6 +2,7 @@ table{
 	border-collapse: collapse;
 	position: absolute;
 	top: 100px;
-	left: 50%;
-	margin-left: -150px;
+}
+table-data{
+	border-collapse: collapse;
 }
